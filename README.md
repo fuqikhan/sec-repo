@@ -1,5 +1,5 @@
 # Main Heading
 It's my New File
 
-## Sub HEading
+## SubHeading
  sub heading text
